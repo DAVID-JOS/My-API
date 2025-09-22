@@ -1,0 +1,10 @@
+{
+  "name": "mine-app",
+  "private": true,
+  "scripts": {
+    "start": "meteor run --settings settings.json --port 3000"
+  },
+  "dependencies": {
+    "meteor-node-stubs": "^1.2.3"
+  }
+}
